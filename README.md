@@ -5,7 +5,7 @@ This portfolio showcases my skills, projects, certifications, experience, and jo
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio:** https://srijanverse.vercel.app/
+🔗 **Portfolio:** https://srijan-pokedex.vercel.app/
 
 ---
 
